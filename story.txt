@@ -1,2 +1,3 @@
 Hello!
-My little story goes on and on
+My little story goes on and on.
+Something else in this line.
